@@ -1,4 +1,4 @@
-### Howdy!👋
+### Howdy👋!
 
 <!--
 **Ryan-Quan/Ryan-Quan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 My name is Ryan and I am a rising senior at the University of Notre Dame, where I am majoring in Computer Science and Economics
 
 🔭 I am currently working as a Product Management Intern at FINRA
+🤔 I am curious about the forces underlying capital markets and the role technology plays in ensuring their efficiency
