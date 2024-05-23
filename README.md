@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 I am a rising senior at the University of Notre Dame majoring in Computer Science and Economics   
-🔭 I am currently working as a Product Management Intern at FINRA  
+🏫 I am a graduate of the University of Notre Dame holding degrees in Computer Science and Economics   
+🔭 I am currently working as a Product Manager at Capital One
 🤔 I am curious about the forces underlying capital markets and the role technology plays in ensuring their efficiency
