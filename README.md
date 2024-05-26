@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 🏫 I am a graduate of the University of Notre Dame holding degrees in Computer Science and Economics   
 
-🔭 I am currently working as a Product Manager at Capital One
+🔭 I am currently working as a Product Manager at Capital One with prior experience as a product management intern at FINRA
 
 🤔 I am curious about the forces underlying capital markets and the role technology plays in ensuring their efficiency
